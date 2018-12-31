@@ -1,0 +1,22 @@
+{
+    "compilerOptions": {
+        "module": "commonjs",
+        "sourceMap": true,
+        "declaration": true,
+        "alwaysStrict": true,
+        "noImplicitAny": true,
+        "moduleResolution": "node",
+        "strictNullChecks": true,
+        "noImplicitReturns": true,
+        "target": "es2017",
+        "outDir": "./dist"
+    },
+    "lib": [],
+    "include": [
+        "src",
+        "lib"
+    ],
+    "exclude": [
+        "node_modules"
+    ]
+}

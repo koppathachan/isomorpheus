@@ -1,0 +1,8 @@
+node_modules
+.idea
+**/**/*.js.map
+**/**/*.js
+**/**/*.d.ts
+.vscode/
+!gulpfile.js
+dist/*
